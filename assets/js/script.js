@@ -97,4 +97,4 @@ onload=()=>{
  let p2=new Persone("mattia",18);
  let p3=new Persone("maria",52);
  
- p1.differenzaEta(p2);
+ p1.differenzaEta(p3);
